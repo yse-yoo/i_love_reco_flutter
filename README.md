@@ -35,7 +35,10 @@ flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs
 ```
 
-### 起動
+## 起動
+1. Android Studio でエミュレータ起動
+2. VSCodeで Flutter 起動
+
 ```bash
-flutter run -d emulator-5554
+flutter run
 ```
