@@ -25,7 +25,7 @@ flutter doctor
 flutter doctor --android-licenses
 ```
 
-### Install
+### パッケージインストール
 ```bash
 flutter pub get
 ```
